@@ -1,0 +1,1 @@
+install -D ; netlify-plugin-submit-sitemap
